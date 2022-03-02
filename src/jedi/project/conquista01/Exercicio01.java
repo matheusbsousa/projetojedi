@@ -7,8 +7,6 @@ package jedi.project.conquista01;
  * OBS*: Se atentar ao parâmetro do método de exibição
  */
 
-
-
 public class Exercicio01 {
 
 
